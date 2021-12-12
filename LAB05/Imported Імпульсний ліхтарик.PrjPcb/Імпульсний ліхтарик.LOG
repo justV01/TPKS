@@ -1,0 +1,51 @@
+PCAD Importer Log
+Project : Імпульсний ліхтарик.PrjPcb
+
+Section : C:\Users\user\Desktop\Универ\ТПКС\lab04\Імпульсний ліхтарик.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 196
+        Warning - 1 : Skipping Token defaultPinDes On Line 197
+        Warning - 1 : Skipping Token defaultPinDes On Line 225
+        Warning - 1 : Skipping Token defaultPinDes On Line 226
+        Warning - 1 : Skipping Token defaultPinDes On Line 227
+        Warning - 1 : Skipping Token defaultPinDes On Line 255
+        Warning - 1 : Skipping Token defaultPinDes On Line 256
+        Warning - 1 : Skipping Token defaultPinDes On Line 287
+        Warning - 1 : Skipping Token defaultPinDes On Line 288
+        Warning - 1 : Skipping Token defaultPinDes On Line 363
+        Warning - 1 : Skipping Token defaultPinDes On Line 364
+        Warning - 1 : Skipping Token attachedSymbol On Line 428
+        Warning - 1 : Skipping Token attachedSymbol On Line 448
+        Warning - 1 : Skipping Token attachedSymbol On Line 468
+        Warning - 1 : Skipping Token attachedSymbol On Line 489
+        Warning - 1 : Skipping Token attachedSymbol On Line 509
+        Warning - 1 : Skipping Token attachedSymbol On Line 530
+        Warning - 1 : Skipping Token refPointSize On Line 691
+        Warning - 1 : Skipping Token infoPointSize On Line 692
+        Warning - 1 : Skipping Token gluePointSize On Line 693
+        Warning - 1 : Skipping Token pickPointSize On Line 694
+        Warning - 1 : Skipping Token testPointSize On Line 695
+        Warning - 1 : Skipping Token refPointSizePrint On Line 696
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 697
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 698
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 699
+        Warning - 1 : Skipping Token testPointSizePrint On Line 700
+        Warning - 1 : Skipping Token solderFlowDirection On Line 701
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 702
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 703
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 704
+        Warning - 1 : Skipping Token drillSymSettings On Line 924
+        Warning - 1 : Skipping Token gerberSettings On Line 926
+        Warning - 1 : Skipping Token ncDrillSettings On Line 940
+        Warning - 1 : Skipping Token programState On Line 949
+        Warning - 1 : Skipping Token displayDrawOrder On Line 990
+        Warning - 1 : Skipping Token reportSettings On Line 1213
+        Warning - 1 : Skipping Token odbSettings On Line 1910
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [П27][Primary] associated with PCAD Component [МП41А] has been renamed to PCB FootPrint [П27_МП41А(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [П27][Primary] associated with PCAD Component [МП41А] has been renamed to PCB FootPrint [П27_МП41А(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [П27][Primary] associated with PCAD Component [МП41А] has been renamed to PCB FootPrint [П27_МП41А(Primary)].
+    EndSection
+EndSection
